@@ -67,9 +67,15 @@ Passionate about web development and game mechanics.
 
 ---
 
+🎨 Screenshots
+
+<img width="945" height="475" alt="image" src="https://github.com/user-attachments/assets/a86f949d-79d7-444d-87cf-599eb606b315" />
+
+---
+
 ## 🚀 Live Demo
 
-> 🔗 
+> 🔗 https://yash120704.github.io/The_Simon_Game_Project/
 
 
 
